@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+ 		<head>
+	  		<meta charset="utf-8">
+			<link rel="Stylesheet" href="Stylesheet.css">
+						<marquee bgcolor="white" behavior="alternate" scrollamount="1">Elvis Stiven Diaz Gonzalez ** 0900-17-13137</marquee>
+		</head>
+		   <title>PROYECTO -- BITS&BITES SUPERMARKET</title>
+		<body>
+				<ul class="nav">
+				<header>
+					<hgroup>
+						<center><h><img src="LOGO/LOGO.jpg" title="BIT&BITES" width="800" height="400"/> </h></center>
+					</hgroup>
+	<div>
+			<ul class="nav">
+				<li><a href="INICIO.HTML">INICIO</a>
+				<li><a href="SOMOS.HTML">QUIENES SOMOS</a></li>
+				<li><a href="PRODUCTOS.HTML">PRODUCTOS</a></li>
+				<li><a href="CLIENTES.HTML">CLIENTES</a></li>
+				<li><a href="CONTACTENOS.HTML">CONTACTENOS</a></li>
+			</ul>
+	</div>
+			</header>
+				<div id="Texto" >
+							<Center><h1>Bienvenido a Nuestra Página</h1></Center
+				</div>
+						<p1>BITES & BITES, te ofrece una gran variedad de productos para que ya no estes haciendo grandes filas como siempre para querer comprar te ofrecemos servicio a domicilio, pudes ingresar a nuestra APP B&Bs completamente gratis.</p1>
+
+						<p1>Recuerda que obtienes mas por menos, algo que nadie hara por ti, si estas pensando en remodelar tu cocina con nuevos electrodomesticos, BIT&BITES, te ofrece precios increibles.</p1>
+
+						<P1>Date la grande, adquiriendo nuestra nueva tarjeta de puntos B&Bs, con esta tarjeta puedes acumular la mayor cantidad de puntos posibles, canjearlos cuando quieres y lo mejor de todo, por lo que tu quieras.</P1>
+		</div>
+			<center><img src="LOGO/SP1.jpg" title="GRACIAS POR PREFERIRNOS" width="600" height="300"/>     
+			<img src="LOGO/SP2.jpg" title="BITS&BITES" width="600" height="300"/>       
+			<img src="LOGO/SP3.jpg" title="CLIENTES" width="600" height="300"/>
+			<img src="LOGO/SP4.jpg" title="SUPERMARKET" width="600" height="300"/></center>
+						<center><video width="900" height="900" controls="controls" posters="LOGO/LOGO.JPG">
+				<source src="LOGO/BIT&BITES.MP4" type="video/mp4"></center> 
+				</video>
+		<center><footer>
+			"Conoceréis la verdad y la verdad os hará libres"
+			<br>
+			Síguenos en Facebook como BITS&BITES   			
+			<br>
+			Síguenos en Twitter como @BIT&BITES   			
+			<br>
+			Síguenos en Instagram como BIT_BITES      			
+			<br>
+			<img src="LOGO/FB.jpg" title="BIT&BITES" width="80" height="80"/>     
+			<img src="LOGO/TW.jpg" title="@BIT&BITES" width="80" height="80"/>       
+			<img src="LOGO/INS.jpg" title="BIT&BITES" width="80" height="80"/>
+		</center></footer>
+	</body>
+</html>
